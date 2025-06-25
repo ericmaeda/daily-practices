@@ -1,7 +1,7 @@
 Welcome to my daily practices repo!
 
 I use this repository to track and update every new things I learned. 
-If you read this and want to give any advices to me, please contact me at
+If you read this and want to give any advices to me, please contact me at :
 
                               -------------------------
                               | ericmaeda41@gmail.com |
