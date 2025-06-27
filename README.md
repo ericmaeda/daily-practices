@@ -1,7 +1,7 @@
 Welcome to my daily practices repo!
 
 I use this repository to track and update every new things I learned.
-This branch is focused on platform based programming (Django framework).
+The content of the repo will focused on platform based programming (Django framework).
 If you read this and want to give any support or advices, please contact me at :
 
                               -------------------------
