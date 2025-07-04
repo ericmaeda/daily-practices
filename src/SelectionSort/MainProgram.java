@@ -14,5 +14,11 @@ public class MainProgram {
         for (int i : array) {
             System.out.print(i + " ");
         }
+
+        char[] array1 = {
+                'z','y','x'
+        };
+
+
     }
 }
