@@ -1,0 +1,26 @@
+ *TREE*
+
+ A. Definisi
+    Tree adalah struktur data yang merepresentasikan
+    sebuah hierarki (hierarchical data structure).
+
+                    A
+                   / \
+                B        C
+               / \     / \ \
+              D   E   F   G  H
+                             |
+                             I
+    Ilustrasi diatas merupakan contoh dari tree. Node-node
+    yang tersambung pada tree diatas, memiliki terminologi
+    tersendiri. Antara lain,
+    1. A adalah root node
+    2. B adalah parent dari D dan E
+    3. C adalah sibling dari B
+    4. D dan E adalah children dari B
+    5. D,E,F,G,I adalah external nodes, atau bisa disebut leaves.
+    6. A,B,C,H adalah internal nodes
+    7. Depth/level/path length dari node E adalah 2
+    8. Height dari tree diatas adalah 3
+    9. Degree dari node B adalah 2
+    10. Property penting : edges = nodes - 1
