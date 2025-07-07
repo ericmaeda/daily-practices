@@ -1,0 +1,5 @@
+*** DYNAMIC PROGRAMMING ***
+
+A. Definisi
+    Dynamic Programming atau pemrograman dinamis dalam bahasa Indonesia, adalah sebuah
+    algoritma yang

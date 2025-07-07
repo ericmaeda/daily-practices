@@ -24,3 +24,8 @@
     8. Height dari tree diatas adalah 3
     9. Degree dari node B adalah 2
     10. Property penting : edges = nodes - 1
+
+B. Implementasi Trees
+    Kita dapat mengimplementasikan trees menggunakan konsep linked list. Hal yang membedakan trees dan linked list
+    konvensional adalah referensi node selanjutnya yang disimpan dalam sebuah node berjumlah dua atau lebih. Dengan
+    demikian, struktur data ini tidak menjadi linear karena satu node bisa menghubungkan dengan lebih dari satu node lainnya.
