@@ -15,5 +15,7 @@ public class HashmapMain {
 
         System.out.println(capital.containsValue("Buenos Aires"));
         System.out.println(capital.toString());
+        System.out.println(capital.get("Spain"));
+
     }
 }
